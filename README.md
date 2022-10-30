@@ -2,9 +2,9 @@
 ASP.NET MVC full stack application representing an ecommerce website for a fictional bookstore company 📚💰.
 
 <p align="center">
-    <img src="assets/bulkybook1.png" alt="Preview">
-    <img src="assets/bulkybook2.png" alt="Preview">
-    <img src="assets/bulkybook3.png" alt="Preview">
+    <img src="assets/bulkybook1.jpg" alt="Preview">
+    <img src="assets/bulkybook2.jpg" alt="Preview">
+    <img src="assets/bulkybook3.jpg" alt="Preview">
 </p>
 
 # Objective
